@@ -20,6 +20,7 @@ My name is Ana Laura and I'm a computer engineering student. I live in Brazil, a
 ![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fllaurabp&count_bg=%23D93A7C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)  
 
 ![llaurabp's GitHub stats](https://github-readme-stats.vercel.app/api?username=llaurabp&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llaurabp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [1]: https://lauraborges.netlify.app/
 [2]: https://www.linkedin.com/in/ana-laura-borges-680b841a1/
