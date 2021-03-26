@@ -12,6 +12,7 @@ My name is Ana Laura and I'm a computer engineering student. I live in Brazil, a
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=a9fef7&color=d93a7c)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=a9fef7&color=d93a7c)   
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=a9fef7&color=d93a7c)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=a9fef7&color=d93a7c)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=a9fef7&color=d93a7c)
 ![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=a9fef7&color=d93a7c)
 
