@@ -6,7 +6,7 @@ My name is Ana Laura and I'm a computer engineering student. I live in Brazil, a
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=a9fef7&color=d93a7c)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=a9fef7&color=d93a7c)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=a9fef7&color=d93a7c)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=a9fef7&color=d93a7c)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=a9fef7&color=d93a7c)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=a9fef7&color=d93a7c)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=a9fef7&color=d93a7c)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=a9fef7&color=d93a7c)
