@@ -1,6 +1,6 @@
 # Hello folks 👋
 
-My name is Ana Laura and I'm a computer engineering student. I live in Brazil, and i'm a Fullstack developer at Proluno. You can find me on [LinkedIn][2] or you can go to my [portfolio website][1].
+My name is Ana Laura and I'm a computer engineering student. I live in Brazil, and i'm a Fronted developer at Trilogo. You can find me on [LinkedIn][2] or you can go to my [portfolio website][1].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=a9fef7&color=d93a7c)
