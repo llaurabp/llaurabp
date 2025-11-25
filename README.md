@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Ana Laura and I'm a computer engineering student. I live in Brazil, and i'm a Fullstack developer at Logic Digital. You can find me on [LinkedIn][2] or you can go to my [portfolio website][1].
+My name is Ana Laura and I'm a computer engineering student. I live in Brazil, and i'm a Fullstack developer at Grupo Zerando. You can find me on [LinkedIn][2] or you can go to my [portfolio website][1].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
